@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-style {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: transparent;
+  color: #7b8794;
+  border-top: none;
+  border-bottom: 1%;
+  border-left: none;
+  border-right: none;
+  border-color: #dfe2e5;
+}
+
+.btn-active {
+  background-color: transparent;
+  color: #2563eb;
+  border-top: none;
+  border-bottom: 2% solid;
+  border-left: none;
+  border-right: none;
+  border-color: #2563eb;
+}

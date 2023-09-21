@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex-tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  text-align: center;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.img-size {
+  height: 10px;
+}
+
+input {
+  background-color: transparent;
+  height: 31px;
+  width: 150px;
+}
+
+.btn {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.div-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 25px;
+}
